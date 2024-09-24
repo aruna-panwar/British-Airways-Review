@@ -1,1 +1,3 @@
 # British-Airways-Review
+
+Data visualization using Tableau, demonstrated by creating an interactive dashboard analyzing British Airways customer reviews from 2016 to 2023. Dashboard highlights include key metrics such as average cabin staff service, entertainment, food and beverages, and overall ratings by aircraft type, country, and traveler type. Visualized complex data trends through line graphs, bar charts, and geo-mapping, enabling insights into customer satisfaction across various flight classes and travel categories. Proficient in transforming raw data into actionable insights for business decision-making.
